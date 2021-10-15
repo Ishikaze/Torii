@@ -9,9 +9,7 @@
         "overlay_alpha": 0,
         "blur_radius": 0
     },
-    "fonts": {
-        "*": "https:\/\/cdn.discordapp.com\/attachments\/852919625293627423\/897897960732504116\/Oh_Whale_-_TTF.ttf"
-    },
+    "fonts": {},
     "simple_colors": {
         "background_secondary": -1342177280,
         "input_background": -182247377,
