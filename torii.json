@@ -2,7 +2,8 @@
     "manifest": {
         "version": "1.0.1",
         "name": "Torii",
-        "author": "Ishikaze#8709"
+        "author": "Ishikaze#8709",
+        "updater": "https:\/\/raw.githubusercontent.com\/Ishikaze\/Torii\/main\/torii.json"
     },
     "background": {
         "url": "https:\/\/cdn.discordapp.com\/attachments\/893166699682078793\/898536918558605332\/705f203d6dd40d2c1b58cd1e9c7e1f93.gif",
