@@ -1,6 +1,6 @@
 {
     "manifest": {
-        "version": "1.0.3",
+        "version": "1.0.4",
         "name": "Torii",
         "author": "Ishikaze#8709",
         "updater": "https:\/\/raw.githubusercontent.com\/Ishikaze\/Torii\/main\/torii.json"
